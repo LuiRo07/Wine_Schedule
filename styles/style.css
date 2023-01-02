@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+}
+
+
+.cont {
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    background-color: white;
+    color: #8c6b48;
+}
+
+
+.title {
+    padding: 15px 70px;
+    text-align: center;
+    background-color: white;
+    color: #8c6b48;
+    border: 3px solid #8c6b48;
+}
+
+
+body {
+    background-color: #242f44
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+
+table {
+    table-layout: fixed; 
+    height: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    color: white;
+    margin: 11px;
+    border: 2px solid #8c6b48;
+}
+
+
+th {
+    padding: 10px;
+}
+
+td {
+    padding: 15px;
+}
+
+
+/* styling for footer section */
+
+/* ul {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: #8c6b48;
+} */
+
